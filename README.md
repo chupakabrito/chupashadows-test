@@ -6,4 +6,4 @@ Test a npm package. Don't waste your time :)
 
 `npm install`
 
-`npm run`
+`parcel index.html`
