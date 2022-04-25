@@ -2,5 +2,5 @@ import { chupashadows } from 'chupashadows';
 
 chupashadows({
     shadow_type: 'hard',
-    padding: false
+    padding: true
 })
